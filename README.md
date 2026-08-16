@@ -65,9 +65,6 @@ It provides a quick introduction about me and my professional profile, along wit
 - 🧭 Easy navigation
 - 📱 Responsive design for desktop, tablet, and mobile devices
 
-### Landing Page Preview
-
-![Portfolio Landing Page](portfolio-screenshot.png)
 
 ## 📸 Screenshots
 
@@ -125,7 +122,7 @@ It provides an easy way for recruiters, employers, and other professionals to le
 
 ## 🔗 Connect With Me
 
-- 💼 **LinkedIn:** [Bhoomi Srivastava](YOUR_LINKEDIN_PROFILE_URL)
+- 💼 **LinkedIn:** [Bhoomi Srivastava](https://www.linkedin.com/in/bhoomi-srivastava-68a0b929a)
 - 💻 **GitHub:** [Bhoomi Srivastava](https://github.com/Bhoomi78)
 - 🌐 **Portfolio:** [View My Portfolio](YOUR_PORTFOLIO_URL)
 
@@ -134,14 +131,4 @@ It provides an easy way for recruiters, employers, and other professionals to le
 **Bhoomi Srivastava**
 
 Aspiring software developer passionate about learning new technologies, building projects, and improving my technical skills.
-
-## ⭐ Support
-
-If you like this project, feel free to ⭐ **star this repository**.
-
-Thank you for visiting my portfolio! ❤️
-
-## 📬 Let's Connect
-
-I'm always open to connecting, learning, collaborating, and exploring new opportunities.
 
