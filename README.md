@@ -82,7 +82,7 @@ Follow these steps to run the portfolio locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Bhoomi78/bhoomi-portfolio
 ## 🚀 Open the Project
 
 Open the `bhoomi-portfolio` folder in **VS Code**.
