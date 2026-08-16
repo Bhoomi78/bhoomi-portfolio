@@ -67,13 +67,13 @@ It provides a quick introduction about me and my professional profile, along wit
 
 ### Landing Page Preview
 
-![Portfolio Landing Page](assets/portfolio-screenshot.png)
+![Portfolio Landing Page](portfolio-screenshot.png)
 
 ## 📸 Screenshots
 
 ### Portfolio Website
 
-![Portfolio Screenshot](assets/portfolio-screenshot.png)
+![Portfolio Screenshot](portfolio-screenshot.png)
 
 ## 🚀 How to Run
 
