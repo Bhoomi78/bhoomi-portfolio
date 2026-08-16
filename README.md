@@ -47,6 +47,8 @@ bhoomi-portfolio/
 │
 ├── index.html
 └── README.md
+```
+
 ## 🏠 Landing Page
 
 The landing page is the first section visitors see when they open my portfolio.
@@ -73,8 +75,6 @@ It provides a quick introduction about me and my professional profile, along wit
 
 ![Portfolio Screenshot](assets/portfolio-screenshot.png)
 
-> Place your portfolio screenshot inside the `assets` folder and name it `portfolio-screenshot.png`.
-
 ## 🚀 How to Run
 
 Follow these steps to run the portfolio locally.
@@ -82,8 +82,10 @@ Follow these steps to run the portfolio locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Bhoomi78/bhoomi-portfolio
-## 🚀 Open the Project
+git clone https://github.com/Bhoomi78/bhoomi-portfolio.git
+```
+
+### 2. Open the Project
 
 Open the `bhoomi-portfolio` folder in **VS Code**.
 
@@ -92,16 +94,16 @@ Open the `bhoomi-portfolio` folder in **VS Code**.
 3. Select the `bhoomi-portfolio` folder
 4. Click **Select Folder**
 
-## ▶️ Run With Live Server
+### 3. Run With Live Server
 
-To run the portfolio locally using Live Server:
+Install the **Live Server** extension in VS Code.
+
+Then:
 
 1. Open `index.html`
 2. Right-click on `index.html`
 3. Select **Open with Live Server**
-4. The portfolio will open automatically in your browser
-
-The local website will be available through the Live Server URL.
+4. The portfolio will open in your browser
 
 ## 📄 Resume
 
@@ -111,7 +113,7 @@ You can view or download my resume directly from the portfolio website through t
 
 ## 🌐 Live Portfolio
 
-🔗 **View My Portfolio:** [Portfolio Website]
+🔗 **View My Portfolio:** [Portfolio Website](YOUR_PORTFOLIO_URL)
 
 The live portfolio link allows anyone to access my website from any device without needing to run the project locally.
 
@@ -121,9 +123,25 @@ This portfolio was created to build my professional online presence and showcase
 
 It provides an easy way for recruiters, employers, and other professionals to learn more about my skills and work.
 
+## 🔗 Connect With Me
+
+- 💼 **LinkedIn:** [Bhoomi Srivastava](YOUR_LINKEDIN_PROFILE_URL)
+- 💻 **GitHub:** [Bhoomi Srivastava](https://github.com/Bhoomi78)
+- 🌐 **Portfolio:** [View My Portfolio](YOUR_PORTFOLIO_URL)
+
 ## 👩‍💻 Author
 
 **Bhoomi Srivastava**
 
 Aspiring software developer passionate about learning new technologies, building projects, and improving my technical skills.
+
+## ⭐ Support
+
+If you like this project, feel free to ⭐ **star this repository**.
+
+Thank you for visiting my portfolio! ❤️
+
+## 📬 Let's Connect
+
+I'm always open to connecting, learning, collaborating, and exploring new opportunities.
 
